@@ -1,1 +1,4 @@
 pdfrw
+pdfplumber
+termcolor
+tqdm
